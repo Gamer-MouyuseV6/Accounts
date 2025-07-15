@@ -1,5 +1,4 @@
 local Owner = ({
-    User = "Mouse"
-    Password = "12345"
+    Key = "QWYPW-Z56QJ-HCP9S-WTNFC-O76ZL"
     HWID = "7F9C579FB4883BA804F954F7280C47"
 })
